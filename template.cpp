@@ -3,7 +3,7 @@ using namespace std;
 
 /*
 Em case of overflow:
-#define long long ll
+#define ll long long
 */
 
 int main() {
